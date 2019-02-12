@@ -1,0 +1,70 @@
+#hero {
+  background: url("img/bg.jpg") no-repeat center center fixed;
+  width: 100%;
+  height: 80%;
+  background-position: center center;
+  background-attachment: fixed;
+  display: flex;
+  align-content: space-around;
+  
+}
+.logo {
+  width: 20em;
+    margin-top: 8px;
+    margin-left: 17px;
+}
+.arrival_pannel {
+  box-shadow: 0 0 30px black;
+    padding:0 15px 0 15px;
+    max-width: 80rem;
+    height: 35rem;
+   
+   
+    
+
+}
+.panel-header {
+  display: flex;
+  justify-content: center;
+  height: 52px
+}
+
+.panel-container {
+  width: 100%;
+  height: 93%;
+  display: flex;
+  flex-direction: row;
+  align-content: space-around;
+  margin-top: 2em;
+
+  
+}
+
+.header-body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin-left: 151px;
+  width: 22em;
+}
+.arrival_guest{
+  width: 50%;
+border: 1px solid #eee;
+padding: 8px 0px 8px 8px;
+background: #eee;}
+
+.vertical-divider {
+
+  margin-top: 17px;
+  display: flex;
+  justify-content: center;
+  width: 400px;
+  margin-left: 175px
+}
+
+.panel-divider{
+display: flex;
+flex-direction: column;
+align-content: space-around;
+}
+
